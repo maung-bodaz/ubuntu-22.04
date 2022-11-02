@@ -15,5 +15,5 @@ export ALLOW_MISSING_DEPENDENCIES=true
 export SELINUX_IGNORE_NEVERALLOWS=true
 # export USE_MICROG=true
 # export TARGET_USES_MINI_GAPPS=true
-mka aex -j8
+mka bacon -j8
 # build

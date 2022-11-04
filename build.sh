@@ -13,7 +13,8 @@ export BUILD_USERNAME=zacky
 export BUILD_HOSTNAME=android-build
 export ALLOW_MISSING_DEPENDENCIES=true
 export SELINUX_IGNORE_NEVERALLOWS=true
+export USE_CCACHE=1
 # export USE_MICROG=true
 # export TARGET_USES_MINI_GAPPS=true
-m banana
+mka banana -j8
 # build

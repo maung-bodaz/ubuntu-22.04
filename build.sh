@@ -17,4 +17,4 @@ export USE_CCACHE=1
 # export USE_MICROG=true
 # export TARGET_USES_MINI_GAPPS=true
 mka banana -j8
-# build
+# build 

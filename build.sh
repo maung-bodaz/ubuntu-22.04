@@ -16,4 +16,4 @@ export SELINUX_IGNORE_NEVERALLOWS=true
 # export USE_MICROG=true
 # export TARGET_USES_MINI_GAPPS=true
 m banana
-# build 2
+# build

@@ -9,7 +9,6 @@ env:
 
 task:
   name: "Setting Up, Syncing, Building and Uploading"
-  only_if: $CIRRUS_REPO_OWNER == 'maung-bodaz'
   timeout_in: 120m
   container:
     image: anggit86/ubuntu:22.04
